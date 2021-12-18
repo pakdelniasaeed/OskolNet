@@ -1,2 +1,2 @@
 # OskolNet
-A New Generation Messenger To Enter A New World. 
+A New Generation Messenger To Enter The New World. 
